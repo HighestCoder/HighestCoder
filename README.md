@@ -1,0 +1,4 @@
+- Olá, sou @HighestCoder;
+- 👀 Estou interessado em Desenv. Web e Micro Saas;
+- 🌱 Atualmente estou aprendendo Análise e Desenvolvimento de sistemas;
+- 💞️ Estou procurando colaborar em empresas de TI;
